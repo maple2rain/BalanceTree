@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1448688987 source:e:\c\balancetree\main.c
+	"BalanceTree.h"
+	<windows.h>
+	"draw.h"
+	"NormalBiTree.h"
+	<time.h>
+	<sys/time.h>
+	<math.h>
+	"Queue.h"
+
+1448700402 source:e:\c\balancetree\balancetree.c
+	"BalanceTree.h"
+	<windows.h>
+
+1448280484 e:\c\balancetree\balancetree.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
+1448248606 source:e:\c\balancetree\draw.c
+	"draw.h"
+
+1448109988 e:\c\balancetree\draw.h
+	<stdio.h>
+
+1448247912 e:\c\balancetree\normalbitree.h
+	<stdio.h>
+	<stdlib.h>
+	"BalanceTree.h"
+
+1448617188 source:e:\c\balancetree\normalbitree.c
+	"NormalBiTree.h"
+
+1448635001 source:e:\c\balancetree\queue.c
+	"Queue.h"
+
+1448634876 e:\c\balancetree\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"BalanceTree.h"
+
